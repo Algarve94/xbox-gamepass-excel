@@ -298,8 +298,15 @@ Desenvolvido com Python + openpyxl
 Análise de dados de assinaturas **Xbox Game Pass**
 
 ---
+## Dashboard
+
+<p align="center">
+  <img src="assets/dashboard.png" width="900">
+</p>
 
 <div align="center">
+
+
 
 ** Se este projeto foi útil, deixe uma estrela no repositório!**
 
